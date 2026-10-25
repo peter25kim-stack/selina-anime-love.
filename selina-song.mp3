@@ -1,0 +1,16 @@
+
+.music-player {
+  background: linear-gradient(135deg, #6a11cb, #ff4da6);
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 20px;
+  text-align: center;
+  max-width: 400px;
+  box-shadow: 0 8px 25px #0003;
+}
+
+.music-player audio {
+  width: 100%;
+  margin-top: 10px;
+}
